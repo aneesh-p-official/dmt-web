@@ -3,19 +3,19 @@
 import Image from "next/image";
 
 const skills = [
-  { label: "Programming Proficiency", image: "/programming-min.webp" },
-  { label: "Software Design Principles", image: "/software-min.webp" },
-  { label: "Object-Oriented Programming", image: "/object-min.webp" },
-  { label: "Agile Development", image: "/agile-min.webp" },
-  { label: "Software Documentation", image: "/documentaion-min.webp" },
-  { label: "Critical Thinking", image: "/critical-min.webp" },
+  { label: "Programming Proficiency", image: "/programming-min.webp", delay: "0" },
+  { label: "Software Design Principles", image: "/software-min.webp", delay: "100" },
+  { label: "Object-Oriented Programming", image: "/object-min.webp", delay: "200" },
+  { label: "Agile Development", image: "/agile-min.webp", delay: "300" },
+  { label: "Software Documentation", image: "/documentaion-min.webp", delay: "400" },
+  { label: "Critical Thinking", image: "/critical-min.webp", delay: "500" },
 ];
 
 export default function TopSkillsSection() {
   return (
     <section className="bg-[#FAFBFB] py-12 lg:-mt-32">
       <div className="container">
-        <h2 className="text-2xl md:text-[40px] font-medium mb-6 md:mb-16 md:text-center">
+        <h2 className="text-2xl md:text-[40px] font-medium mb-6 md:mb-16 md:text-center" data-aos="fade-up" data-aos-delay="0">
           Top <span className="text-accent">Skills</span> you will Learn
         </h2>
 
@@ -24,6 +24,7 @@ export default function TopSkillsSection() {
             <div
               key={index}
               className="flex items-center gap-6 md:p-4"
+              data-aos="fade-up" data-aos-delay={skill.delay}
             >
               <div className="relative shrink-0">
                 <Image

@@ -94,10 +94,10 @@ export default function PartnersSection() {
           </div>
         </div>
         <div className="lg:w-2/5 w-full flex flex-col max-w-[400px] items-center">
-          <h2 className="text-2xl md:text-[40px] font-medium mb-6">
+          <h2 className="text-2xl md:text-[40px] font-medium mb-6" data-aos="fade-up" data-aos-delay="0">
             Discover Our Academic <span className="text-accent">Partners</span>
           </h2>
-          <p className="font-light">
+          <p className="font-light" data-aos="fade-up" data-aos-delay="0">
             <strong className="font-medium">DeMont</strong> Institute of Management and Technology proudly collaborates with top institutions globally, ensuring our students receive world-class higher education.
           </p>
         </div>

@@ -9,24 +9,28 @@ const stats = [
     icon: "/level.svg",
     label: "Duration",
     value: "24 Months",
+    delay: "0"
   },
   {
     id: 2,
     icon: "/duration.svg",
     label: "Course Level",
     value: "Level 5",
+    delay: "100"
   },
   {
     id: 3,
     icon: "/credit.svg",
     label: "Credits",
     value: "240",
+    delay: "200"
   },
   {
     id: 4,
     icon: "/module.svg",
     label: "Modules",
     value: "15",
+    delay: "300"
   },
 ];
 
@@ -73,14 +77,14 @@ Back to all Programs
             />
           </div>
 
-          <h1 className="text-2xl md:text-[40px] font-light mt-8">
+          <h1 className="text-2xl md:text-[40px] font-light mt-8" data-aos="fade-up" data-aos-delay="0">
             Higher National diploma international
             <span className="block text-xl md:text-3xl font-light">
               In Computing (Software Engineering)
             </span>
           </h1>
         </div>
-        <div className="absolute right-0 top-0 z-1 w-full h-full md:w-auto md:h-auto">
+        <div className="absolute right-0 top-0 z-1 w-full h-full md:w-auto md:h-auto" data-aos="fade-left" data-aos-delay="0">
           <div className="absolute inset-0 bg-black/70 md:hidden" />
           <Image
             src="/hero-min.webp"
@@ -106,7 +110,7 @@ Back to all Programs
         <div className="container">
           <div className="max-w-4xl grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6">
             {stats.map((item) => (
-              <div key={item.id} className="flex items-center gap-4">
+              <div key={item.id} className="flex items-center gap-4" data-aos="fade-up" data-aos-delay={item.delay}>
                 <Image
                   src={item.icon}
                   alt={item.label}

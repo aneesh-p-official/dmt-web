@@ -29,10 +29,10 @@ export default function MinimumEligibilitySection() {
     <>
       <section className="py-12">
         <div className="container">
-          <h2 className="text-2xl md:text-[40px] font-medium mb-6">
+          <h2 className="text-2xl md:text-[40px] font-medium mb-6" data-aos="fade-up" data-aos-delay="0">
             Minimum<span className="text-accent">Eligibility</span>
           </h2>
-          <ul className="grid gap-3 max-w-xl">
+          <ul className="grid gap-3 max-w-xl" data-aos="fade-up" data-aos-delay="0">
             <li className="flex items-center gap-4 font-light">
               <span className="mt-1 w-[12px] h-[5px] bg-[#879DA5] rounded-full shrink-0"></span>
               <span>
@@ -41,7 +41,7 @@ export default function MinimumEligibilitySection() {
               </span>
             </li>
           </ul>
-          <div className="flex gap-3 mt-12 mb-4">
+          <div className="flex gap-3 mt-12 mb-4" data-aos="fade-up" data-aos-delay="0">
             <span className="font-extralight text-xl md:text-3xl md:text-[40px]">Awarding Body:</span>
             <Image
               src="/pearson_logo.svg"
@@ -51,7 +51,7 @@ export default function MinimumEligibilitySection() {
               className="max-w-[120px] md:max-w-none"
             />
           </div>
-          <p className="font-light mb-12">
+          <p className="font-light mb-12" data-aos="fade-up" data-aos-delay="0">
             Pearson Education is a British-owned educational publishing and
             appraisal service for educational institutions and corporations, as
             for students directly. It integrates world-class educational content

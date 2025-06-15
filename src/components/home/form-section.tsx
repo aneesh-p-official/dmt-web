@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import AOS from 'aos';
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
@@ -32,6 +33,15 @@ export default function FormSection() {
     course: "",
     phone: "",
   });
+
+  useEffect(() => {
+    AOS.init({
+      duration: 1000,
+      easing: "ease",
+      delay: 100,
+      once: true,
+    });
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -76,10 +86,10 @@ export default function FormSection() {
               </Link>
             </div>
             <div>
-              <h2 className="text-2xl md:text-[40px] font-medium mb-6">
+              <h2 className="text-2xl md:text-[40px] font-medium mb-6" data-aos="fade-up" data-aos-delay="0">
                 Programme <span className="text-accent">Overview</span>
               </h2>
-              <p className="mb-6 font-light">
+              <p className="mb-6 font-light" data-aos="fade-up" data-aos-delay="0">
                 The Higher National Diploma International (HND) in Computing
                 with a specialization in Software Engineering is a comprehensive
                 program designed to equip students with the knowledge, skills,
@@ -89,7 +99,7 @@ export default function FormSection() {
                 applications that meet modern technological and business
                 demands.
               </p>
-              <p className="mb-6 font-light">
+              <p className="mb-6 font-light" data-aos="fade-up" data-aos-delay="0">
                 The Higher National Diploma International in Computing with a
                 specialization in Software Engineering offers a comprehensive
                 education in the ever-evolving field of software development.
@@ -103,7 +113,7 @@ export default function FormSection() {
             </div>
           </div>
           <div className="w-full md:w-auto md:ml-auto md:p-4 flex flex-col md:items-end relative md:right-[-75px]">
-            <div className="w-full md:pl-5">
+            <div className="w-full md:pl-5" data-aos="fade-up" data-aos-delay="0">
               <h2 className="text-2xl md:text-[40px] font-medium">
                 <span className="text-accent">Talk</span> to Our
               </h2>

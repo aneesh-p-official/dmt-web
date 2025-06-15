@@ -80,8 +80,8 @@ export default function CoursesSection() {
     <section className="py-16 bg-white">
       <div className="container">
         <div className="flex flex-col md:flex-row justify-between items-center mb-10 gap-4">
-          <h2 className="text-2xl md:text-[40px] font-medium mb-2 md:mb-6">Explore <span className="text-accent">Our Courses</span></h2>
-          <div className="flex w-full md:w-[60%] border rounded-4xl overflow-hidden shadow-sm">
+          <h2 className="text-2xl md:text-[40px] font-medium mb-2 md:mb-6" data-aos="fade-up" data-aos-delay="0">Explore <span className="text-accent">Our Courses</span></h2>
+          <div className="flex w-full md:w-[60%] border rounded-4xl overflow-hidden shadow-sm" data-aos="fade-up" data-aos-delay="0">
             <input
               type="text" 
               placeholder="Search for Courses..."

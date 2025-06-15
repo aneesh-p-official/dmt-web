@@ -97,6 +97,8 @@ function CoursesSection() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                             className: "text-2xl md:text-[40px] font-medium mb-2 md:mb-6",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": "0",
                             children: [
                                 "Explore ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -105,7 +107,7 @@ function CoursesSection() {
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/cources.tsx",
                                     lineNumber: 83,
-                                    columnNumber: 84
+                                    columnNumber: 122
                                 }, this)
                             ]
                         }, void 0, true, {
@@ -115,6 +117,8 @@ function CoursesSection() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex w-full md:w-[60%] border rounded-4xl overflow-hidden shadow-sm",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": "0",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                     type: "text",
@@ -713,6 +717,7 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$aos$2f$dist$2f$aos$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/aos/dist/aos.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/input.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/label.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/ui/button.tsx [app-ssr] (ecmascript)");
@@ -737,6 +742,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 ;
 ;
+;
 function FormSection() {
     const [open, setOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     const [formData, setFormData] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])({
@@ -745,6 +751,14 @@ function FormSection() {
         course: "",
         phone: ""
     });
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$aos$2f$dist$2f$aos$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"].init({
+            duration: 1000,
+            easing: "ease",
+            delay: 100,
+            once: true
+        });
+    }, []);
     const handleSubmit = (e)=>{
         e.preventDefault();
         setOpen(true);
@@ -778,13 +792,13 @@ function FormSection() {
                                                             className: "block w-[132px] h-1 rounded bg-[#0C2D46]"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 55,
+                                                            lineNumber: 65,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 53,
+                                                    lineNumber: 63,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -794,13 +808,13 @@ function FormSection() {
                                                     height: 45
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 57,
+                                                    lineNumber: 67,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 48,
+                                            lineNumber: 58,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -816,13 +830,13 @@ function FormSection() {
                                                             className: "block w-[132px] h-1 rounded bg-[#0C2D46]"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 67,
+                                                            lineNumber: 77,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 65,
+                                                    lineNumber: 75,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -833,25 +847,27 @@ function FormSection() {
                                                     className: "relative w-[500px] top-1 -left-2 transition duration-300 opacity-0 group-hover:opacity-100"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 69,
+                                                    lineNumber: 79,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 64,
+                                            lineNumber: 74,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 47,
+                                    lineNumber: 57,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             className: "text-2xl md:text-[40px] font-medium mb-6",
+                                            "data-aos": "fade-up",
+                                            "data-aos-delay": "0",
                                             children: [
                                                 "Programme ",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -859,41 +875,45 @@ function FormSection() {
                                                     children: "Overview"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 80,
+                                                    lineNumber: 90,
                                                     columnNumber: 27
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 79,
+                                            lineNumber: 89,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "mb-6 font-light",
+                                            "data-aos": "fade-up",
+                                            "data-aos-delay": "0",
                                             children: "The Higher National Diploma International (HND) in Computing with a specialization in Software Engineering is a comprehensive program designed to equip students with the knowledge, skills, and practical experience needed to excel in the dynamic field of software development. This program focuses on preparing students for careers in designing, building, and maintaining software applications that meet modern technological and business demands."
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 82,
+                                            lineNumber: 92,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "mb-6 font-light",
+                                            "data-aos": "fade-up",
+                                            "data-aos-delay": "0",
                                             children: "The Higher National Diploma International in Computing with a specialization in Software Engineering offers a comprehensive education in the ever-evolving field of software development. Through a blend of theoretical knowledge and hands-on experience, students are prepared to contribute effectively to the creation of innovative and practical software solutions, meeting the demands of modern technology-driven industries. This program serves as a gateway for those seeking to build a successful career in software engineering"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 92,
+                                            lineNumber: 102,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 78,
+                                    lineNumber: 88,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/form-section.tsx",
-                            lineNumber: 46,
+                            lineNumber: 56,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -901,6 +921,8 @@ function FormSection() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-full md:pl-5",
+                                    "data-aos": "fade-up",
+                                    "data-aos-delay": "0",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             className: "text-2xl md:text-[40px] font-medium",
@@ -910,14 +932,14 @@ function FormSection() {
                                                     children: "Talk"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 108,
+                                                    lineNumber: 118,
                                                     columnNumber: 17
                                                 }, this),
                                                 " to Our"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 107,
+                                            lineNumber: 117,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
@@ -925,13 +947,13 @@ function FormSection() {
                                             children: "Admission Team"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 120,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 106,
+                                    lineNumber: 116,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -941,7 +963,7 @@ function FormSection() {
                                             className: "absolute w-full h-full top-0 left-0 bg-[#E7EBED] rounded-4xl md:rounded-bl-[75px] md:-skew-x-3"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 116,
+                                            lineNumber: 126,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -956,7 +978,7 @@ function FormSection() {
                                                             children: "Name"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 119,
+                                                            lineNumber: 129,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -971,13 +993,13 @@ function FormSection() {
                                                             className: "p-0 !text-base rounded-none border-0 border-b-1 border-[#D0D4D6] shadow-none focus:ring-0 focus:border-accent focus:outline-none"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 122,
+                                                            lineNumber: 132,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 118,
+                                                    lineNumber: 128,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -988,7 +1010,7 @@ function FormSection() {
                                                             children: "Email"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 134,
+                                                            lineNumber: 144,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1004,13 +1026,13 @@ function FormSection() {
                                                             className: "p-0 !text-base rounded-none border-0 border-b-1 border-[#D0D4D6] shadow-none focus:ring-0 focus:border-accent focus:outline-none"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 137,
+                                                            lineNumber: 147,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 133,
+                                                    lineNumber: 143,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1021,7 +1043,7 @@ function FormSection() {
                                                             children: "Interested Course"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 150,
+                                                            lineNumber: 160,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Select"], {
@@ -1037,12 +1059,12 @@ function FormSection() {
                                                                         placeholder: "Select a course"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/home/form-section.tsx",
-                                                                        lineNumber: 162,
+                                                                        lineNumber: 172,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                                    lineNumber: 158,
+                                                                    lineNumber: 168,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectContent"], {
@@ -1052,7 +1074,7 @@ function FormSection() {
                                                                             children: "Web Development"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                                            lineNumber: 165,
+                                                                            lineNumber: 175,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -1060,7 +1082,7 @@ function FormSection() {
                                                                             children: "UI/UX Design"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                                            lineNumber: 166,
+                                                                            lineNumber: 176,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -1068,25 +1090,25 @@ function FormSection() {
                                                                             children: "Data Science"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                                            lineNumber: 167,
+                                                                            lineNumber: 177,
                                                                             columnNumber: 23
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                                    lineNumber: 164,
+                                                                    lineNumber: 174,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 153,
+                                                            lineNumber: 163,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 149,
+                                                    lineNumber: 159,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1096,7 +1118,7 @@ function FormSection() {
                                                             children: "Phone"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 172,
+                                                            lineNumber: 182,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$phone$2d$input$2d$2$2f$lib$2f$lib$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1116,13 +1138,13 @@ function FormSection() {
                                                             }
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 173,
+                                                            lineNumber: 183,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 171,
+                                                    lineNumber: 181,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -1134,49 +1156,49 @@ function FormSection() {
                                                             className: "w-4 h-4 stroke-[2] text-black group-hover:text-white group-hover:translate-x-2 transition duration-300"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 192,
+                                                            lineNumber: 202,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "absolute top-0 left-0 w-[350px] md:w-[250px] h-full bg-accent group-hover:bg-[#879DA5] rounded-s-2xl -z-1 transition duration-300"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                                            lineNumber: 193,
+                                                            lineNumber: 203,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                                    lineNumber: 187,
+                                                    lineNumber: 197,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 117,
+                                            lineNumber: 127,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 115,
+                                    lineNumber: 125,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/form-section.tsx",
-                            lineNumber: 105,
+                            lineNumber: 115,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/home/form-section.tsx",
-                    lineNumber: 45,
+                    lineNumber: 55,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/home/form-section.tsx",
-                lineNumber: 44,
+                lineNumber: 54,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Dialog"], {
@@ -1199,7 +1221,7 @@ function FormSection() {
                                     className: "max-w-[165px] md:max-w-none"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 205,
+                                    lineNumber: 215,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["DialogTitle"], {
@@ -1212,13 +1234,13 @@ function FormSection() {
                                             children: "for your interest!"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 217,
+                                            lineNumber: 227,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 215,
+                                    lineNumber: 225,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dialog$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["DialogDescription"], {
@@ -1226,13 +1248,13 @@ function FormSection() {
                                     children: "Your inquiry has been successfully submitted. Our Academic Advisor shall get in touch with you within the next 48 hours."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 221,
+                                    lineNumber: 231,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/form-section.tsx",
-                            lineNumber: 204,
+                            lineNumber: 214,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1243,7 +1265,7 @@ function FormSection() {
                                     children: "Please don't hesitate to contact us directly at:"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 227,
+                                    lineNumber: 237,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1260,19 +1282,19 @@ function FormSection() {
                                                         className: "w-4 h-4 stroke-[2]"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/home/form-section.tsx",
-                                                        lineNumber: 239,
+                                                        lineNumber: 249,
                                                         columnNumber: 19
                                                     }, this),
                                                     "+971 45804285"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 235,
+                                                lineNumber: 245,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 231,
+                                            lineNumber: 241,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -1286,25 +1308,25 @@ function FormSection() {
                                                         className: "w-4 h-4 stroke-[2]"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/home/form-section.tsx",
-                                                        lineNumber: 251,
+                                                        lineNumber: 261,
                                                         columnNumber: 19
                                                     }, this),
                                                     "hello@demont.ac.ae"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 247,
+                                                lineNumber: 257,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 243,
+                                            lineNumber: 253,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 230,
+                                    lineNumber: 240,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1319,12 +1341,12 @@ function FormSection() {
                                                 height: 38
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 258,
+                                                lineNumber: 268,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 257,
+                                            lineNumber: 267,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1336,12 +1358,12 @@ function FormSection() {
                                                 height: 38
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 266,
+                                                lineNumber: 276,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 265,
+                                            lineNumber: 275,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1353,12 +1375,12 @@ function FormSection() {
                                                 height: 38
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 274,
+                                                lineNumber: 284,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 273,
+                                            lineNumber: 283,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1370,41 +1392,41 @@ function FormSection() {
                                                 height: 38
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/form-section.tsx",
-                                                lineNumber: 282,
+                                                lineNumber: 292,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/form-section.tsx",
-                                            lineNumber: 281,
+                                            lineNumber: 291,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/form-section.tsx",
-                                    lineNumber: 256,
+                                    lineNumber: 266,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/form-section.tsx",
-                            lineNumber: 226,
+                            lineNumber: 236,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/home/form-section.tsx",
-                    lineNumber: 203,
+                    lineNumber: 213,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/home/form-section.tsx",
-                lineNumber: 202,
+                lineNumber: 212,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/home/form-section.tsx",
-        lineNumber: 43,
+        lineNumber: 53,
         columnNumber: 5
     }, this);
 }
@@ -1429,25 +1451,29 @@ const stats = [
         id: 1,
         icon: "/level.svg",
         label: "Duration",
-        value: "24 Months"
+        value: "24 Months",
+        delay: "0"
     },
     {
         id: 2,
         icon: "/duration.svg",
         label: "Course Level",
-        value: "Level 5"
+        value: "Level 5",
+        delay: "100"
     },
     {
         id: 3,
         icon: "/credit.svg",
         label: "Credits",
-        value: "240"
+        value: "240",
+        delay: "200"
     },
     {
         id: 4,
         icon: "/module.svg",
         label: "Modules",
-        value: "15"
+        value: "15",
+        delay: "300"
     }
 ];
 function Hero() {
@@ -1472,7 +1498,7 @@ function Hero() {
                                                     className: "absolute inset-0 rounded-full bg-[#879DA5] scale-0 group-hover:scale-100 transition-transform duration-300"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/hero.tsx",
-                                                    lineNumber: 44,
+                                                    lineNumber: 48,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -1492,7 +1518,7 @@ function Hero() {
                                                             className: "transition-all duration-300 group-hover:-translate-x-3 origin-center"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/hero.tsx",
-                                                            lineNumber: 57,
+                                                            lineNumber: 61,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
@@ -1500,19 +1526,19 @@ function Hero() {
                                                             className: "transition-all duration-300 group-hover:-translate-x-0.5 group-hover:scale-x-200 origin-center"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/hero.tsx",
-                                                            lineNumber: 58,
+                                                            lineNumber: 62,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/hero.tsx",
-                                                    lineNumber: 45,
+                                                    lineNumber: 49,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/hero.tsx",
-                                            lineNumber: 43,
+                                            lineNumber: 47,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1520,18 +1546,18 @@ function Hero() {
                                             children: "Back to all Programs"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/hero.tsx",
-                                            lineNumber: 61,
+                                            lineNumber: 65,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/hero.tsx",
-                                    lineNumber: 39,
+                                    lineNumber: 43,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 38,
+                                lineNumber: 42,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1544,16 +1570,18 @@ function Hero() {
                                     className: "max-w-[120px] md:max-w-none"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/hero.tsx",
-                                    lineNumber: 67,
+                                    lineNumber: 71,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 66,
+                                lineNumber: 70,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "text-2xl md:text-[40px] font-light mt-8",
+                                "data-aos": "fade-up",
+                                "data-aos-delay": "0",
                                 children: [
                                     "Higher National diploma international",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1561,29 +1589,31 @@ function Hero() {
                                         children: "In Computing (Software Engineering)"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home/hero.tsx",
-                                        lineNumber: 78,
+                                        lineNumber: 82,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 76,
+                                lineNumber: 80,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/home/hero.tsx",
-                        lineNumber: 37,
+                        lineNumber: 41,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute right-0 top-0 z-1 w-full h-full md:w-auto md:h-auto",
+                        "data-aos": "fade-left",
+                        "data-aos-delay": "0",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "absolute inset-0 bg-black/70 md:hidden"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 84,
+                                lineNumber: 88,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1598,7 +1628,7 @@ function Hero() {
                                 }
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 85,
+                                lineNumber: 89,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1609,19 +1639,19 @@ function Hero() {
                                 className: "object-cover w-full md:hidden"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 96,
+                                lineNumber: 100,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/home/hero.tsx",
-                        lineNumber: 83,
+                        lineNumber: 87,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/home/hero.tsx",
-                lineNumber: 36,
+                lineNumber: 40,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1632,6 +1662,8 @@ function Hero() {
                         className: "max-w-4xl grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6",
                         children: stats.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex items-center gap-4",
+                                "data-aos": "fade-up",
+                                "data-aos-delay": item.delay,
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         src: item.icon,
@@ -1641,7 +1673,7 @@ function Hero() {
                                         className: "max-w-9 md:max-w-none"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home/hero.tsx",
-                                        lineNumber: 110,
+                                        lineNumber: 114,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1652,7 +1684,7 @@ function Hero() {
                                                 children: item.label
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/hero.tsx",
-                                                lineNumber: 118,
+                                                lineNumber: 122,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1660,40 +1692,40 @@ function Hero() {
                                                 children: item.value
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/hero.tsx",
-                                                lineNumber: 119,
+                                                lineNumber: 123,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/home/hero.tsx",
-                                        lineNumber: 117,
+                                        lineNumber: 121,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, item.id, true, {
                                 fileName: "[project]/src/components/home/hero.tsx",
-                                lineNumber: 109,
+                                lineNumber: 113,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/components/home/hero.tsx",
-                        lineNumber: 107,
+                        lineNumber: 111,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/home/hero.tsx",
-                    lineNumber: 106,
+                    lineNumber: 110,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/home/hero.tsx",
-                lineNumber: 105,
+                lineNumber: 109,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/home/hero.tsx",
-        lineNumber: 35,
+        lineNumber: 39,
         columnNumber: 5
     }, this);
 }

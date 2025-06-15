@@ -448,7 +448,7 @@ function Navigation() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuItem"], {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuTrigger"], {
-                            className: "text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1",
+                            className: "text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:text-accent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1",
                             children: "Programs"
                         }, void 0, false, {
                             fileName: "[project]/src/components/header/navigation.tsx",
@@ -456,7 +456,7 @@ function Navigation() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuContent"], {
-                            className: `!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen !bg-[#051f33] md:!bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`,
+                            className: `!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen bg-[#051f33] !bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`,
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "container !px-0 md:px-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -561,7 +561,7 @@ function Navigation() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuItem"], {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuTrigger"], {
-                            className: "text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1",
+                            className: "text-lg md:text-base font-medium focus:!text-accent data-[state=open]:text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1",
                             children: "DeMont Plus"
                         }, void 0, false, {
                             fileName: "[project]/src/components/header/navigation.tsx",
@@ -569,7 +569,7 @@ function Navigation() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$navigation$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["NavigationMenuContent"], {
-                            className: `!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen !bg-[#051f33] md:!bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`,
+                            className: `!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen bg-[#051f33] !bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`,
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "container !px-0 md:px-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {

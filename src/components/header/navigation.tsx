@@ -39,11 +39,11 @@ export default function Navigation() {
           </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <NavigationMenuTrigger className="text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1">
+          <NavigationMenuTrigger className="text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:text-accent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1">
             Programs
           </NavigationMenuTrigger>
           <NavigationMenuContent
-            className={`!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen !bg-[#051f33] md:!bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`}
+            className={`!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen bg-[#051f33] !bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`}
           >
             <div className="container !px-0 md:px-4">
               <div className="flex overflow-x-auto md:overflow-hidden md:grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 md:gap-6 xl:pt-[75px]">
@@ -85,11 +85,11 @@ export default function Navigation() {
           </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <NavigationMenuTrigger className="text-lg md:text-base font-medium focus:!text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1">
+          <NavigationMenuTrigger className="text-lg md:text-base font-medium focus:!text-accent data-[state=open]:text-accent hover:!text-accent bg-transparent hover:bg-transparent focus:!bg-transparent data-[state=open]:hover:!bg-transparent data-[state=open]:!bg-transparent px-5 py-1">
             DeMont Plus
           </NavigationMenuTrigger>
           <NavigationMenuContent
-            className={`!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen !bg-[#051f33] md:!bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`}
+            className={`!static xl:!fixed !left-0 bottom-0 !top-auto -z-1 !w-screen bg-[#051f33] !bg-gradient-to-b from-[#0C2D46] via-[#0C2D46] via-[60%] to-[#0C2D46]/80 h-[calc(100%-125px)] !border-0 !rounded-none !pointer-events-auto !px-0 md:!px-4`}
           >
             <div className="container !px-0 md:px-4">
               <div className="flex overflow-x-auto md:overflow-hidden md:grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-6 md:gap-6 xl:pt-[75px]">

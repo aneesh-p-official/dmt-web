@@ -6,7 +6,7 @@ export default function ThreeColumnSection() {
     <section className="py-16 bg-[#F5FAFC]">
       <div className="container">
         <div className="grid md:grid-cols-3 gap-8 text-center space-y-5">
-          <div className="group flex flex-col items-center">
+          <div className="group flex flex-col items-center" data-aos="fade-up" data-aos-delay="0">
             <div className="flex gap-2">
               <Image
                 src="/demonmt-logo.svg"
@@ -52,7 +52,7 @@ export default function ThreeColumnSection() {
               </Link>
             </div>
           </div>
-          <div className="group flex flex-col items-center">
+          <div className="group flex flex-col items-center" data-aos="fade-up" data-aos-delay="100">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="95"
@@ -93,7 +93,7 @@ export default function ThreeColumnSection() {
               </Link>
             </div>
           </div>
-          <div className="group flex flex-col items-center">
+          <div className="group flex flex-col items-center" data-aos="fade-up" data-aos-delay="200">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="73"

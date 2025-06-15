@@ -41,6 +41,8 @@ function ThreeColumnSection() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "group flex flex-col items-center",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "0",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex gap-2",
@@ -139,6 +141,8 @@ function ThreeColumnSection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "group flex flex-col items-center",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "100",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
@@ -228,6 +232,8 @@ function ThreeColumnSection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "group flex flex-col items-center",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "200",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                                 xmlns: "http://www.w3.org/2000/svg",
@@ -458,6 +464,8 @@ function MinimumEligibilitySection() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         className: "text-2xl md:text-[40px] font-medium mb-6",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "0",
                         children: [
                             "Minimum",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -476,6 +484,8 @@ function MinimumEligibilitySection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                         className: "grid gap-3 max-w-xl",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "0",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             className: "flex items-center gap-4 font-light",
                             children: [
@@ -517,6 +527,8 @@ function MinimumEligibilitySection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex gap-3 mt-12 mb-4",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "0",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 className: "font-extralight text-xl md:text-3xl md:text-[40px]",
@@ -545,6 +557,8 @@ function MinimumEligibilitySection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "font-light mb-12",
+                        "data-aos": "fade-up",
+                        "data-aos-delay": "0",
                         children: "Pearson Education is a British-owned educational publishing and appraisal service for educational institutions and corporations, as for students directly. It integrates world-class educational content and evaluation, driven by services and technology, to allow more efficient teaching and customized learning. Their mission is to have a direct partnership with millions of lifelong learners and to link education to the way people aspire to live and work each day. They assume that wherever learning flourishes, people do as well."
                     }, void 0, false, {
                         fileName: "[project]/src/components/home/eligibility.tsx",
@@ -810,6 +824,8 @@ function JobOpportunitiesSection() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-2xl md:text-[40px] font-medium mb-6",
+                                    "data-aos": "fade-up",
+                                    "data-aos-delay": "0",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "text-accent",
@@ -828,6 +844,8 @@ function JobOpportunitiesSection() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "mb-10 font-light",
+                                    "data-aos": "fade-up",
+                                    "data-aos-delay": "0",
                                     children: "Graduates of the Higher National Diploma International (HND) in Computing (Software Engineering) are well-equipped to pursue a wide range of job opportunities in the dynamic field of software development. The skills gained through this program open doors to various roles across industries that rely on technology and software solutions."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/job-opportunities.tsx",
@@ -836,6 +854,8 @@ function JobOpportunitiesSection() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                     className: "text-lg md:text-xl font-medium mb-4",
+                                    "data-aos": "fade-up",
+                                    "data-aos-delay": "0",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "font-light",
@@ -854,6 +874,8 @@ function JobOpportunitiesSection() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                     className: "grid gap-3 max-w-xl",
+                                    "data-aos": "fade-up",
+                                    "data-aos-delay": "0",
                                     children: jobs.map((job, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             className: "flex items-center gap-4 font-light",
                                             children: [
@@ -918,6 +940,8 @@ function JobOpportunitiesSection() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 className: "text-2xl md:text-[40px] font-medium mb-6",
+                                "data-aos": "fade-up",
+                                "data-aos-delay": "0",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "text-accent",
@@ -936,6 +960,8 @@ function JobOpportunitiesSection() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "font-light",
+                                "data-aos": "fade-up",
+                                "data-aos-delay": "0",
                                 children: "The Higher National Diploma International (HND) in Computing with a specialization in Software Engineering is designed for a diverse range of individuals who are interested in pursuing a career in the field of software development. This program caters to various backgrounds and aspirations, making it suitable for High School Graduates, Tech Enthusiasts, and IT Professionals etc."
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home/job-opportunities.tsx",
@@ -1240,6 +1266,8 @@ function PartnersSection() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                             className: "text-2xl md:text-[40px] font-medium mb-6",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": "0",
                             children: [
                                 "Discover Our Academic ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1258,6 +1286,8 @@ function PartnersSection() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "font-light",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": "0",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                     className: "font-medium",
@@ -1342,22 +1372,26 @@ const courses = [
     {
         title: "Higher National Diploma International in Computing (Cyber Security)",
         logo: "/pearson_logo.svg",
-        background: "/rel-1-min.webp"
+        background: "/rel-1-min.webp",
+        delay: "0"
     },
     {
         title: "Higher National Diploma International in Computing",
         logo: "/pearson_logo.svg",
-        background: "/rel-2-min.webp"
+        background: "/rel-2-min.webp",
+        delay: "100"
     },
     {
         title: "BTEC International Level 3 Foundation-Diploma in Information Technology",
         logo: "/pearson_logo.svg",
-        background: "/rel-3-min.webp"
+        background: "/rel-3-min.webp",
+        delay: "200"
     },
     {
         title: "BTEC International Level 3 Extended Diploma in Information Technology",
         logo: "/pearson_logo.svg",
-        background: "/rel-4-min.webp"
+        background: "/rel-4-min.webp",
+        delay: "300"
     }
 ];
 function RelatedCoursesSection() {
@@ -1368,6 +1402,8 @@ function RelatedCoursesSection() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     className: "text-2xl md:text-[40px] font-medium mb-10",
+                    "data-aos": "fade-up",
+                    "data-aos-delay": "0",
                     children: [
                         "Related ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1375,13 +1411,13 @@ function RelatedCoursesSection() {
                             children: "Courses"
                         }, void 0, false, {
                             fileName: "[project]/src/components/home/related-cources.tsx",
-                            lineNumber: 64,
+                            lineNumber: 68,
                             columnNumber: 19
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/home/related-cources.tsx",
-                    lineNumber: 63,
+                    lineNumber: 67,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1389,6 +1425,8 @@ function RelatedCoursesSection() {
                     children: courses.map((course, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                             href: "/",
                             className: "relative group min-w-[280px] h-[360px] rounded-3xl overflow-hidden bg-[#F5F5F5]",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": course.delay,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                     src: course.background,
@@ -1397,7 +1435,7 @@ function RelatedCoursesSection() {
                                     className: "object-contain object-bottom"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                    lineNumber: 74,
+                                    lineNumber: 79,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1413,12 +1451,12 @@ function RelatedCoursesSection() {
                                                 className: "object-contain"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/related-cources.tsx",
-                                                lineNumber: 82,
+                                                lineNumber: 87,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                            lineNumber: 81,
+                                            lineNumber: 86,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1426,7 +1464,7 @@ function RelatedCoursesSection() {
                                             children: course.title
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                            lineNumber: 90,
+                                            lineNumber: 95,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -1435,12 +1473,12 @@ function RelatedCoursesSection() {
                                                 className: "w-4 h-4 stroke-[2]"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/home/related-cources.tsx",
-                                                lineNumber: 92,
+                                                lineNumber: 97,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                            lineNumber: 91,
+                                            lineNumber: 96,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1458,7 +1496,7 @@ function RelatedCoursesSection() {
                                                                     height: 24
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                                                    lineNumber: 98,
+                                                                    lineNumber: 103,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1469,7 +1507,7 @@ function RelatedCoursesSection() {
                                                                             children: item.label
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                                                            lineNumber: 105,
+                                                                            lineNumber: 110,
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1477,24 +1515,24 @@ function RelatedCoursesSection() {
                                                                             children: item.value
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                                                            lineNumber: 108,
+                                                                            lineNumber: 113,
                                                                             columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                                                    lineNumber: 104,
+                                                                    lineNumber: 109,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, item.id, true, {
                                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                                            lineNumber: 97,
+                                                            lineNumber: 102,
                                                             columnNumber: 23
                                                         }, this))
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                                    lineNumber: 95,
+                                                    lineNumber: 100,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -1505,36 +1543,36 @@ function RelatedCoursesSection() {
                                                             className: "w-4 h-4 stroke-[2] text-black"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                                            lineNumber: 117,
+                                                            lineNumber: 122,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                                    lineNumber: 115,
+                                                    lineNumber: 120,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/home/related-cources.tsx",
-                                            lineNumber: 94,
+                                            lineNumber: 99,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                    lineNumber: 80,
+                                    lineNumber: 85,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, index, true, {
                             fileName: "[project]/src/components/home/related-cources.tsx",
-                            lineNumber: 69,
+                            lineNumber: 73,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/components/home/related-cources.tsx",
-                    lineNumber: 67,
+                    lineNumber: 71,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -1550,13 +1588,13 @@ function RelatedCoursesSection() {
                                     children: "All Programs"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                    lineNumber: 129,
+                                    lineNumber: 134,
                                     columnNumber: 21
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/related-cources.tsx",
-                            lineNumber: 128,
+                            lineNumber: 133,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1566,37 +1604,37 @@ function RelatedCoursesSection() {
                                     className: "absolute inset-0 rounded-full bg-[#879DA5] scale-0 group-hover:scale-100 transition-transform duration-300"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                    lineNumber: 132,
+                                    lineNumber: 137,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
                                     className: "w-4 h-4 stroke-[2] text-black relative z-1"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/related-cources.tsx",
-                                    lineNumber: 133,
+                                    lineNumber: 138,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/home/related-cources.tsx",
-                            lineNumber: 131,
+                            lineNumber: 136,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/home/related-cources.tsx",
-                    lineNumber: 124,
+                    lineNumber: 129,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/home/related-cources.tsx",
-            lineNumber: 62,
+            lineNumber: 66,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/components/home/related-cources.tsx",
-        lineNumber: 61,
+        lineNumber: 65,
         columnNumber: 5
     }, this);
 }
@@ -1617,27 +1655,33 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 const skills = [
     {
         label: "Programming Proficiency",
-        image: "/programming-min.webp"
+        image: "/programming-min.webp",
+        delay: "0"
     },
     {
         label: "Software Design Principles",
-        image: "/software-min.webp"
+        image: "/software-min.webp",
+        delay: "100"
     },
     {
         label: "Object-Oriented Programming",
-        image: "/object-min.webp"
+        image: "/object-min.webp",
+        delay: "200"
     },
     {
         label: "Agile Development",
-        image: "/agile-min.webp"
+        image: "/agile-min.webp",
+        delay: "300"
     },
     {
         label: "Software Documentation",
-        image: "/documentaion-min.webp"
+        image: "/documentaion-min.webp",
+        delay: "400"
     },
     {
         label: "Critical Thinking",
-        image: "/critical-min.webp"
+        image: "/critical-min.webp",
+        delay: "500"
     }
 ];
 function TopSkillsSection() {
@@ -1648,6 +1692,8 @@ function TopSkillsSection() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     className: "text-2xl md:text-[40px] font-medium mb-6 md:mb-16 md:text-center",
+                    "data-aos": "fade-up",
+                    "data-aos-delay": "0",
                     children: [
                         "Top ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1669,6 +1715,8 @@ function TopSkillsSection() {
                     className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto",
                     children: skills.map((skill, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex items-center gap-6 md:p-4",
+                            "data-aos": "fade-up",
+                            "data-aos-delay": skill.delay,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "relative shrink-0",
@@ -1680,12 +1728,12 @@ function TopSkillsSection() {
                                         className: "object-contain max-w-20 lg:max-w-none"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home/top-skills.tsx",
-                                        lineNumber: 29,
+                                        lineNumber: 30,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/top-skills.tsx",
-                                    lineNumber: 28,
+                                    lineNumber: 29,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1693,7 +1741,7 @@ function TopSkillsSection() {
                                     children: skill.label
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/home/top-skills.tsx",
-                                    lineNumber: 37,
+                                    lineNumber: 38,
                                     columnNumber: 15
                                 }, this)
                             ]

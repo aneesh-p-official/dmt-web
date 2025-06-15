@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎓 DeMont – Selected Program Page (Frontend UI/UX Task)
 
-## Getting Started
+This project is a submission for the Frontend Developer (UI/UX) role at **Westford**.  
+The goal was to recreate the "Selected Program" page from the **DeMont** website based on a Figma prototype, and build a responsive, interactive, and pixel-perfect UI.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📸 Live Preview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 [View Demo on Vercel](https://dmt-web.vercel.app/)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Framework**: Next.js (App Router)
+- **Styling**: Tailwind CSS
+- **UI Components**: ShadCN UI
+- **Animation & Interactions**: AOS (Animate on Scroll), CSS transitions
+- **Icons**: Lucide-react
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 How to Run Locally
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/aneesh-p-official/dmt-web.git
+   cd dmt-web
 
-## Deploy on Vercel
+2. **Install Dependencies**
+   ```bash
+   npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Start Development Server**
+   ```bash
+    npm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. **Start Development Server**
+   
+   Open http://localhost:3000 in your browser.
+
+
+## 🔍 What I Focused On
+
+- Pixel-perfect desktop layout matching the Figma prototype
+- Recreating hover states, animations, and transitions exactly as per design
+- Building a clean and scalable folder structure
+- Ensuring accessibility and semantic HTML
+- Maintaining UI/UX consistency across screen sizes
+
+## 📱 Responsive Design
+
+Since the Figma file only included a desktop view, I created the mobile version using best UX practices:
+
+- Used Tailwind's responsive utilities to manage layout shifts
+- Converted grid-based sections to horizontal carousels on mobile
+- Ensured tap-friendly buttons and readable font sizes
+- Carefully handled image aspect ratios and stack order for visual consistency
+
+## Assumptions & Challenges
+
+- Some interactions/animations weren’t fully clear in the prototype; I filled in using common UX standards
+- No mobile version provided, so I designed a mobile-first layout based on the desktop structure
+- Implemented basic AOS animations similar to what was visible in Figma
+- Assumed that responsiveness and interactivity take precedence over framework constraints
+
+*Thank you for the opportunity!*

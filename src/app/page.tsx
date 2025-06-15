@@ -1,3 +1,5 @@
+"use client";
+
 import ThreeColumnSection from "@/components/home/connect";
 import CoursesSection from "@/components/home/cources";
 import MinimumEligibilitySection from "@/components/home/eligibility";

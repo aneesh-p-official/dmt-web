@@ -36,23 +36,27 @@ const courses = [
       "Higher National Diploma International in Computing (Cyber Security)",
     logo: "/pearson_logo.svg",
     background: "/rel-1-min.webp",
+    delay: "0"
   },
   {
     title: "Higher National Diploma International in Computing",
     logo: "/pearson_logo.svg",
     background: "/rel-2-min.webp",
+    delay: "100"
   },
   {
     title:
       "BTEC International Level 3 Foundation-Diploma in Information Technology",
     logo: "/pearson_logo.svg",
     background: "/rel-3-min.webp",
+    delay: "200"
   },
   {
     title:
       "BTEC International Level 3 Extended Diploma in Information Technology",
     logo: "/pearson_logo.svg",
     background: "/rel-4-min.webp",
+    delay: "300"
   },
 ];
 
@@ -60,7 +64,7 @@ export default function RelatedCoursesSection() {
   return (
     <section className="py-10 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-2xl md:text-[40px] font-medium mb-10">
+        <h2 className="text-2xl md:text-[40px] font-medium mb-10" data-aos="fade-up" data-aos-delay="0">
           Related <span className="text-accent">Courses</span>
         </h2>
 
@@ -70,6 +74,7 @@ export default function RelatedCoursesSection() {
               href="/"
               key={index}
               className="relative group min-w-[280px] h-[360px] rounded-3xl overflow-hidden bg-[#F5F5F5]"
+              data-aos="fade-up" data-aos-delay={course.delay}
             >
               <Image
                 src={course.background}
